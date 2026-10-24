@@ -100,6 +100,7 @@ Philosophy   : "Build fast, break abstractions, trace to the root, rebuild resil
     <td width="50%" valign="top">
       <h3 align="center">🏛️ University Course Engine</h3>
       <p align="center">
+        <<a href="https://university-course-system-92pk.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Live Demo" /></a>
         <a href="https://github.com/ShaktiEighteen/university_course_system"><img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
         <img src="https://img.shields.io/badge/Academic_System-8B5CF6?style=flat-square" alt="System" />
       </p>
